@@ -1,0 +1,29 @@
+{
+  "1": {
+    "name": "king arthur",
+    "password": "password1",
+    "profession": "king",
+    "id": 1
+  },
+  "2": {
+    "name": "paritosh"
+  },
+  "3": {
+    "name": "teresa may",
+    "password": "password2",
+    "profession": "brexit destroyer",
+    "id": 6
+  },
+  "4": {
+    "name": "Panchal",
+    "pass": "Huju"
+  },
+  "5": {
+    "name": "Panchal",
+    "pass": "Huju"
+  },
+  "6": {
+    "name": "Panchallled",
+    "pass": "Huju"
+  }
+}
